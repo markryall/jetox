@@ -1,6 +1,8 @@
 require "jetox/version"
 
 module Jetox
-  class Error < StandardError; end
-  # Your code goes here...
+  def self.engage
+    jetox_path = File.dirname(__FILE__)+'/../media/jetox.mp3'
+    `afplay #{jetox_path}`
+  end
 end
