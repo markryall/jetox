@@ -1,6 +1,6 @@
 # Jetox
 
-The most [unnecessarily powerful](/markryall/jetox/blob/master/media/jetox.mp3?raw=true) hand dryer ever manufactured.
+The most [unnecessarily powerful](https://github.com/markryall/jetox/blob/master/media/jetox.mp3?raw=true) hand dryer ever manufactured.
 
 It turns out that the product this gem is based on is actually called _JetOz_ but since that is a boring name, we'll stick to what we _thought_ it was called.
 
